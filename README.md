@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection
+# Breast Cancer Detection
 
 Breast cancer detection can be done with the help of modern machine learning algorithms.
 In this, we focus on how to deal with imbalanced data that have missing values using resampling techniques to enhance the classification accuracy of detecting breast cancer.
